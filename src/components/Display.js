@@ -1,5 +1,5 @@
-import React from "react";
-import Player from "./Player";
+import React from 'react';
+import Player from './Player';
 
 function Display() {
   return (
